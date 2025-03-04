@@ -27,6 +27,9 @@ Este programa tiene como objetivo principal optimizar el control impositivo medi
 > En resumen, este programa es una herramienta indispensable para cualquier empresa que busque mejorar la eficiencia y precisión en el control de sus impuestos. Su implementación no solo agiliza los procesos, sino que también asegura una mayor precisión y transparencia en la gestión.
 
 
+###### Ejemplos de los informes generados:
+
+
 ![ejemplo](https://github.com/cgzanfa/Control_Swiss/blob/a794e774a3005fc39927d8d81c7a8791ce95e0b3/Ejemplo.jpg)
 
 
